@@ -1,2 +1,2 @@
 # pyBot
-A chatbot made in python for use in cmd.exe
+A chatbot made in python for use in Command Prompt or Terminal.
